@@ -10,7 +10,7 @@ PHONE_NUMBER = '+6281213953112'  # Ваш номер телефона в фор�
 CHANNELS = ['@sol_TOP', '@workIncrypts', '@thecyberomanovsmoment', '@ruslan55richhh',
             '@Last_Trade161', '@miguelrarechannel', '@dchnecrypto', '@ded_blog',
             '@spekulyantcrypto', '@olegnoc4p', '@phtcrypto', '@jungle_chain',
-            '@goosebarn', '@CryptoLamer', '@testoviyyyi', '@who_is_votesa, 
+            '@goosebarn', '@CryptoLamer', '@testoviyyyi', '@who_is_votesa', 
             '@crypto_galaxyyy', '@fackblock', '-1001230726405'
             ]
 
